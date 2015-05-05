@@ -1,0 +1,13 @@
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\bin\Debug\CrossSectionalPlanePreview.exe.config
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\obj\Debug\CrossSectionalPlanePreview.csprojResolveAssemblyReference.cache
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\obj\Debug\CrossSectionalPlanePreview.Properties.Resources.resources
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\obj\Debug\CrossSectionalPlanePreview.csproj.GenerateResource.Cache
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\bin\Debug\CrossSectionalPlanePreview.exe
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\bin\Debug\CrossSectionalPlanePreview.pdb
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\bin\Debug\OpenTK.dll
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\bin\Debug\OpenTK.GLControl.dll
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\bin\Debug\OpenTK.xml
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\bin\Debug\OpenTK.GLControl.xml
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\obj\Debug\CrossSectionalPlanePreview.exe
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\obj\Debug\CrossSectionalPlanePreview.pdb
+C:\Users\t2ladmin\Desktop\Moff\MachineLearning\CrossSectionalPlanePreview\CrossSectionalPlanePreview\obj\Debug\CrossSectionalPlanePreview.TKForm.resources
